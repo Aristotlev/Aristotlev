@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://omnifolio.app"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=26&pause=1000&color=00D47E&center=true&vCenter=true&width=760&lines=Founder+of+OmniFolio.;The+Bloomberg+Terminal+for+Everyone.;Building+Zeus%2C+an+agentic+AI+framework.;Shipping+OmniDesk%2C+OmniStore%2C+OmniBoost+and+OmniMix." alt="Typing SVG" /></a>
+<a href="https://omnifolio.app"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&duration=3500&pause=1800&color=00D47E&center=true&vCenter=true&width=540&height=50&lines=Founder+of+OmniFolio;Bloomberg+Terminal+for+Everyone;Building+Zeus+and+the+Omni+apps" alt="Typing SVG" /></a>
 
 <img align="left" width="230" alt="Laptop" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" />
 
@@ -28,9 +28,28 @@
   Writing Aristotle's Academy on sport, markets and geopolitics 📈
 </strong></p>
 
-<a href="https://omnifolio.app"><img src="https://img.shields.io/badge/omnifolio.app-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D47E" alt="omnifolio.app" /></a>
-<a href="https://docs.omnifolio.app"><img src="https://img.shields.io/badge/API_Docs-0D1117?style=for-the-badge&logo=readthedocs&logoColor=3B82F6" alt="API Docs" /></a>
-<a href="https://github.com/Omnifolio-app"><img src="https://img.shields.io/badge/Omnifolio--app-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Omnifolio-app org" /></a>
+<a href="https://omnifolio.app"><img src="https://img.shields.io/badge/omnifolio.app-Visit-00D47E?style=for-the-badge&labelColor=0D1117&logo=googlechrome&logoColor=00D47E" alt="omnifolio.app" /></a>
+
+<h3>Download my apps</h3>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/Aristotlev/omnidesk"><b>OmniDesk</b></a><br><sub>All your device screens as one computer</sub></td>
+    <td><a href="https://github.com/Aristotlev/omnidesk/releases/latest/download/OmniDesk-Windows.exe"><img src="https://img.shields.io/badge/Windows-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIvPjxyZWN0IHg9IjEzIiB5PSIxIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48cmVjdCB4PSIxIiB5PSIxMyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIi8%2BPHJlY3QgeD0iMTMiIHk9IjEzIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48L3N2Zz4%3D" alt="OmniDesk for Windows" /></a><br><a href="https://github.com/Aristotlev/omnidesk/releases/latest/download/OmniDesk-Mac.dmg"><img src="https://img.shields.io/badge/macOS-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=apple" alt="OmniDesk for macOS" /></a><br><a href="https://github.com/Aristotlev/omnidesk/releases/latest/download/OmniDesk-Linux.AppImage"><img src="https://img.shields.io/badge/Linux-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=linux" alt="OmniDesk for Linux" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Aristotlev/omnistore"><b>OmniStore</b></a><br><sub>Every cloud and device storage in one dashboard</sub></td>
+    <td><a href="https://github.com/Aristotlev/omnistore/releases/latest/download/OmniStore-Windows.exe"><img src="https://img.shields.io/badge/Windows-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIvPjxyZWN0IHg9IjEzIiB5PSIxIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48cmVjdCB4PSIxIiB5PSIxMyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIi8%2BPHJlY3QgeD0iMTMiIHk9IjEzIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48L3N2Zz4%3D" alt="OmniStore for Windows" /></a><br><a href="https://github.com/Aristotlev/omnistore/releases/latest/download/OmniStore-Mac.dmg"><img src="https://img.shields.io/badge/macOS-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=apple" alt="OmniStore for macOS" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Aristotlev/OmniBoost"><b>OmniBoost</b></a><br><sub>Windows gaming and work optimizer</sub></td>
+    <td><a href="https://github.com/Aristotlev/OmniBoost/releases/latest/download/OmniBoost-Windows.exe"><img src="https://img.shields.io/badge/Windows-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIvPjxyZWN0IHg9IjEzIiB5PSIxIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48cmVjdCB4PSIxIiB5PSIxMyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIi8%2BPHJlY3QgeD0iMTMiIHk9IjEzIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48L3N2Zz4%3D" alt="OmniBoost for Windows" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Aristotlev/omnimix"><b>OmniMix</b></a><br><sub>Per-device equalizer and sound mixer</sub></td>
+    <td><a href="https://github.com/Aristotlev/omnimix/releases/latest/download/OmniMix-Windows.exe"><img src="https://img.shields.io/badge/Windows-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIvPjxyZWN0IHg9IjEzIiB5PSIxIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48cmVjdCB4PSIxIiB5PSIxMyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIi8%2BPHJlY3QgeD0iMTMiIHk9IjEzIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48L3N2Zz4%3D" alt="OmniMix for Windows" /></a><br><a href="https://github.com/Aristotlev/omnimix/releases/latest/download/OmniMix-Mac.dmg"><img src="https://img.shields.io/badge/macOS-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=apple" alt="OmniMix for macOS" /></a></td>
+  </tr>
+</table>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Aristotlev&style=flat&color=00D47E&label=PROFILE+VIEWS)
 
@@ -72,7 +91,7 @@ const aristotle = {
 ```
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="22" /> &nbsp; Building **OmniFolio**, the Bloomberg Terminal for Everyone.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="22" /> &nbsp; Running **Zeus** agents across a multi-node mesh.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="22" /> &nbsp; Running **[Zeus](https://github.com/Aristotlev/ZEUS-FRAMEWORK)** agents across a multi-node mesh.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> &nbsp; Ask me about **SEC filings, congressional trades, macro data, agentic AI or Tauri**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="22" /> &nbsp; Fun fact: I speak Mandarin.
 
@@ -242,16 +261,6 @@ const aristotle = {
     </td>
   </tr>
 </table>
-
-<h3>Apps</h3>
-
-| App | What it does | Get it |
-|:--|:--|:--|
-| **[OmniDesk](https://github.com/Aristotlev/omnidesk)** | All your device screens as one unified computer | [Download](https://github.com/Aristotlev/omnidesk#readme) |
-| **[OmniStore](https://github.com/Aristotlev/omnistore)** | One dashboard for all your cloud and device storage | [Download](https://github.com/Aristotlev/omnistore#readme) |
-| **[OmniBoost](https://github.com/Aristotlev/OmniBoost)** | Windows gaming and work performance optimizer | [Download](https://aristotlev.github.io/OmniBoost/) |
-| **[OmniMix](https://github.com/Aristotlev/omnimix)** | Per-device equalizer and sound mixer | [Download](https://aristotlev.github.io/omnimix/) |
-| **[Zeus](https://github.com/Aristotlev/ZEUS-FRAMEWORK)** | Open-source agentic AI framework | [Repo](https://github.com/Aristotlev/ZEUS-FRAMEWORK) |
 
 <p align="center">
   <a href="https://github.com/Aristotlev?tab=repositories"><img src="./profile/stats.svg" width="48%" alt="GitHub stats" /></a>
