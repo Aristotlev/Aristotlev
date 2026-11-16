@@ -82,7 +82,6 @@ const aristotle = {
   company: "OmniFolio",
   base: "Greece",
   languages: ["TypeScript", "Python", "Rust", "Solidity"],
-  speaks: ["English", "Mandarin"],
   data: ["SEC EDGAR", "Congress trades", "Senate lobbying", "FRED", "OSINT", "USAspending"],
   infra: ["GCP Cloud Run", "Cloudflare R2", "Upstash Redis", "Supabase", "Postgres + pgvector"],
   ai: ["OpenRouter", "DeepSeek", "GLM", "Qwen", "fal.ai"],
@@ -93,7 +92,6 @@ const aristotle = {
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="22" /> &nbsp; Building **OmniFolio**, the Bloomberg Terminal for Everyone.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="22" /> &nbsp; Running **[Zeus](https://github.com/Aristotlev/ZEUS-FRAMEWORK)** agents across a multi-node mesh.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> &nbsp; Ask me about **SEC filings, congressional trades, macro data, agentic AI or Tauri**.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="22" /> &nbsp; Fun fact: I speak Mandarin.
 
 <div align="center">
 
