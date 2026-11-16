@@ -259,8 +259,7 @@ const aristotle = {
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" height="200" alt="Top languages" />
-  <a href="https://github.com/Aristotlev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aristotlev&theme=onestar&no-frame=true&no-bg=true&column=4&row=2" height="200" alt="Trophies" /></a>
+  <img src="./profile/top-langs.svg" width="48%" alt="Top languages" />
 </p>
 
 </div>
