@@ -32,7 +32,7 @@
 
 <h3>Download my apps</h3>
 
-<table>
+<table align="center">
   <tr>
     <td><a href="https://github.com/Aristotlev/omnidesk"><b>OmniDesk</b></a><br><sub>All your device screens as one computer</sub></td>
     <td><a href="https://github.com/Aristotlev/omnidesk/releases/latest/download/OmniDesk-Windows.exe"><img src="https://img.shields.io/badge/Windows-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIvPjxyZWN0IHg9IjEzIiB5PSIxIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48cmVjdCB4PSIxIiB5PSIxMyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIi8%2BPHJlY3QgeD0iMTMiIHk9IjEzIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz48L3N2Zz4%3D" alt="OmniDesk for Windows" /></a><br><a href="https://github.com/Aristotlev/omnidesk/releases/latest/download/OmniDesk-Mac.dmg"><img src="https://img.shields.io/badge/macOS-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=apple" alt="OmniDesk for macOS" /></a><br><a href="https://github.com/Aristotlev/omnidesk/releases/latest/download/OmniDesk-Linux.AppImage"><img src="https://img.shields.io/badge/Linux-Download-00D47E?style=for-the-badge&labelColor=0D1117&logoColor=white&logo=linux" alt="OmniDesk for Linux" /></a></td>
